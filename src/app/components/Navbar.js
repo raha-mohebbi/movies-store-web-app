@@ -8,7 +8,7 @@ const Navbar = () => {
   const router = useRouter();
 
   const goToMainPage = () => {
-    router.push("/page");
+    router.push("/routes");
   };
 
   const goToStore = () => {

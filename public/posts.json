@@ -1,0 +1,37 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "movie 1",
+    "body": "released in 2000",
+    "image": "assets/movie1.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "movie 2",
+    "body": "released in 2001",
+    "image": "assets/movie2.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "movie 3",
+    "body": "released in 2002",
+    "image": "assets/movie3.webp"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "movie 4",
+    "body": "released in 2003",
+    "image": "assets/movie4.webp"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "movie 5",
+    "body": "released in 2005",
+    "image": "assets/movie5.webp"
+  }
+]
